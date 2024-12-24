@@ -1,0 +1,6 @@
+C:\Users\323\Downloads\Librarry_Dikaya\bin\Debug\Librarry_Dikaya.dll
+C:\Users\323\Downloads\Librarry_Dikaya\bin\Debug\Librarry_Dikaya.pdb
+C:\Users\323\Downloads\Librarry_Dikaya\obj\Debug\Librarry_Dikaya.csproj.AssemblyReference.cache
+C:\Users\323\Downloads\Librarry_Dikaya\obj\Debug\Librarry_Dikaya.csproj.CoreCompileInputs.cache
+C:\Users\323\Downloads\Librarry_Dikaya\obj\Debug\Librarry_Dikaya.dll
+C:\Users\323\Downloads\Librarry_Dikaya\obj\Debug\Librarry_Dikaya.pdb

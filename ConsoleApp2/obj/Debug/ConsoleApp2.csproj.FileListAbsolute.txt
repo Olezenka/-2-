@@ -1,0 +1,11 @@
+C:\Users\323\Downloads\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\323\Downloads\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\323\Downloads\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\323\Downloads\ConsoleApp2\bin\Debug\Librarry_Dikaya.dll
+C:\Users\323\Downloads\ConsoleApp2\bin\Debug\Librarry_Dikaya.pdb
+C:\Users\323\Downloads\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\323\Downloads\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Downloads\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\323\Downloads\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\323\Downloads\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\323\Downloads\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
