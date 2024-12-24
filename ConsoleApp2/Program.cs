@@ -20,6 +20,7 @@ namespace ConsoleApp2
                 team.AddPlayers(new Player("Сет Горден", "Защитник"));
 
                 team.ShowAll();
+
                 Console.WriteLine("\nРаботу выполнила Дикая");
                 Console.ReadKey();
             }
